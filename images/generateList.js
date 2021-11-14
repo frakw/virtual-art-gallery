@@ -7,5 +7,5 @@ fs.readdir('./images', (err, files) => {
         file,
     }));
     let json = JSON.stringify({images:list}, null, 4);
-    fs.writeFileSync('./images/images.json', json);
+    //fs.writeFileSync('./images/images.json', json);
 });
