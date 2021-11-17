@@ -1,0 +1,812 @@
+{
+    "images": [
+        {
+            "title": "eugene-delacroix_michelangelo-in-his-studio-1850(1)",
+            "file": "eugene-delacroix_michelangelo-in-his-studio-1850(1).jpg"
+        },
+        {
+            "title": "giorgio-vasari_monument-to-michelangelo-1570",
+            "file": "giorgio-vasari_monument-to-michelangelo-1570.jpg"
+        },
+        {
+            "title": "karl-bryullov_portrait-of-the-archeologist-michelangelo-lanci",
+            "file": "karl-bryullov_portrait-of-the-archeologist-michelangelo-lanci.jpg"
+        },
+        {
+            "title": "leonardo-da-vinci_study-of-david-by-michelangelo-1505",
+            "file": "leonardo-da-vinci_study-of-david-by-michelangelo-1505.jpg"
+        },
+        {
+            "title": "michelangelo-pistoletto_bed-1976",
+            "file": "michelangelo-pistoletto_bed-1976.jpg"
+        },
+        {
+            "title": "michelangelo-pistoletto_bookcase-1976",
+            "file": "michelangelo-pistoletto_bookcase-1976.jpg"
+        },
+        {
+            "title": "michelangelo-pistoletto_door-1976",
+            "file": "michelangelo-pistoletto_door-1976.jpg"
+        },
+        {
+            "title": "michelangelo-pistoletto_doormats-1976",
+            "file": "michelangelo-pistoletto_doormats-1976.jpg"
+        },
+        {
+            "title": "michelangelo-pistoletto_neon",
+            "file": "michelangelo-pistoletto_neon.jpg"
+        },
+        {
+            "title": "michelangelo-pistoletto_tutti-designers-1989",
+            "file": "michelangelo-pistoletto_tutti-designers-1989.jpg"
+        },
+        {
+            "title": "michelangelo-pistoletto_venus-of-the-rags-1967",
+            "file": "michelangelo-pistoletto_venus-of-the-rags-1967.jpg"
+        },
+        {
+            "title": "michelangelo_adam-and-eve-1512",
+            "file": "michelangelo_adam-and-eve-1512.jpg"
+        },
+        {
+            "title": "michelangelo_allegorical-figure-1530",
+            "file": "michelangelo_allegorical-figure-1530.jpg"
+        },
+        {
+            "title": "michelangelo_angel-with-candlestick-1495",
+            "file": "michelangelo_angel-with-candlestick-1495.jpg"
+        },
+        {
+            "title": "michelangelo_annunciation-study-1547",
+            "file": "michelangelo_annunciation-study-1547.jpg"
+        },
+        {
+            "title": "michelangelo_apollo-1530",
+            "file": "michelangelo_apollo-1530.jpg"
+        },
+        {
+            "title": "michelangelo_archers-shooting-at-a-herm",
+            "file": "michelangelo_archers-shooting-at-a-herm.jpg"
+        },
+        {
+            "title": "michelangelo_bacchus-1497",
+            "file": "michelangelo_bacchus-1497.jpg"
+        },
+        {
+            "title": "michelangelo_battle-of-the-lapiths-and-centaurs-1510",
+            "file": "michelangelo_battle-of-the-lapiths-and-centaurs-1510.jpg"
+        },
+        {
+            "title": "michelangelo_bearded-slave-1536",
+            "file": "michelangelo_bearded-slave-1536.jpg"
+        },
+        {
+            "title": "michelangelo_bust-of-brutus",
+            "file": "michelangelo_bust-of-brutus.jpg"
+        },
+        {
+            "title": "michelangelo_christ-carrying-the-cross-1521",
+            "file": "michelangelo_christ-carrying-the-cross-1521.jpg"
+        },
+        {
+            "title": "michelangelo_cleopatra-1534",
+            "file": "michelangelo_cleopatra-1534.jpg"
+        },
+        {
+            "title": "michelangelo_crouching-boy-1533",
+            "file": "michelangelo_crouching-boy-1533.jpg"
+        },
+        {
+            "title": "michelangelo_crucifixion-1492",
+            "file": "michelangelo_crucifixion-1492.jpg"
+        },
+        {
+            "title": "michelangelo_crucifixion-1540",
+            "file": "michelangelo_crucifixion-1540.jpg"
+        },
+        {
+            "title": "michelangelo_david-1504",
+            "file": "michelangelo_david-1504.jpg"
+        },
+        {
+            "title": "michelangelo_design-for-a-statue-of-henry-ii-of-france",
+            "file": "michelangelo_design-for-a-statue-of-henry-ii-of-france.jpg"
+        },
+        {
+            "title": "michelangelo_design-for-julius-ii-tomb-first-version",
+            "file": "michelangelo_design-for-julius-ii-tomb-first-version.jpg"
+        },
+        {
+            "title": "michelangelo_design-for-julius-ii-tomb-second-version",
+            "file": "michelangelo_design-for-julius-ii-tomb-second-version.jpg"
+        },
+        {
+            "title": "michelangelo_design-for-laurentian-library-doors-and-an-external-window",
+            "file": "michelangelo_design-for-laurentian-library-doors-and-an-external-window.jpg"
+        },
+        {
+            "title": "michelangelo_frescoes-above-the-altwall",
+            "file": "michelangelo_frescoes-above-the-altwall.jpg"
+        },
+        {
+            "title": "michelangelo_frescoes-above-the-entrance-wall",
+            "file": "michelangelo_frescoes-above-the-entrance-wall.jpg"
+        },
+        {
+            "title": "michelangelo_head",
+            "file": "michelangelo_head.jpg"
+        },
+        {
+            "title": "michelangelo_holy-family-with-st-john-the-baptist",
+            "file": "michelangelo_holy-family-with-st-john-the-baptist.jpg"
+        },
+        {
+            "title": "michelangelo_ideal-head-of-a-woman",
+            "file": "michelangelo_ideal-head-of-a-woman.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-1",
+            "file": "michelangelo_ignudo-1.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-10",
+            "file": "michelangelo_ignudo-10.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-11",
+            "file": "michelangelo_ignudo-11.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-12",
+            "file": "michelangelo_ignudo-12.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-13",
+            "file": "michelangelo_ignudo-13.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-14",
+            "file": "michelangelo_ignudo-14.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-15",
+            "file": "michelangelo_ignudo-15.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-16",
+            "file": "michelangelo_ignudo-16.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-2",
+            "file": "michelangelo_ignudo-2.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-3",
+            "file": "michelangelo_ignudo-3.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-4",
+            "file": "michelangelo_ignudo-4.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-5",
+            "file": "michelangelo_ignudo-5.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-6",
+            "file": "michelangelo_ignudo-6.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-7",
+            "file": "michelangelo_ignudo-7.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-8",
+            "file": "michelangelo_ignudo-8.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo-9",
+            "file": "michelangelo_ignudo-9.jpg"
+        },
+        {
+            "title": "michelangelo_ignudo",
+            "file": "michelangelo_ignudo.jpg"
+        },
+        {
+            "title": "michelangelo_leda-and-the-swan",
+            "file": "michelangelo_leda-and-the-swan.jpg"
+        },
+        {
+            "title": "michelangelo_madonna-and-child-1505",
+            "file": "michelangelo_madonna-and-child-1505.jpg"
+        },
+        {
+            "title": "michelangelo_madonna-and-child-with-the-infant-baptist-1506",
+            "file": "michelangelo_madonna-and-child-with-the-infant-baptist-1506.jpg"
+        },
+        {
+            "title": "michelangelo_madonna-child-and-st-john-the-baptist",
+            "file": "michelangelo_madonna-child-and-st-john-the-baptist.jpg"
+        },
+        {
+            "title": "michelangelo_madonna-of-the-stairs",
+            "file": "michelangelo_madonna-of-the-stairs.jpg"
+        },
+        {
+            "title": "michelangelo_male-nude-and-arm-of-bearded-man-1504",
+            "file": "michelangelo_male-nude-and-arm-of-bearded-man-1504.jpg"
+        },
+        {
+            "title": "michelangelo_martyrdom-of-st-peter",
+            "file": "michelangelo_martyrdom-of-st-peter.jpg"
+        },
+        {
+            "title": "michelangelo_medici-madonna-1531",
+            "file": "michelangelo_medici-madonna-1531.jpg"
+        },
+        {
+            "title": "michelangelo_medici-madonna-between-st-cosmas-and-st-damian-1531",
+            "file": "michelangelo_medici-madonna-between-st-cosmas-and-st-damian-1531.jpg"
+        },
+        {
+            "title": "michelangelo_moses-1515",
+            "file": "michelangelo_moses-1515.jpg"
+        },
+        {
+            "title": "michelangelo_nude-female-seated-on-the-knees-of-a-seated-male-nude-adam-and-eve",
+            "file": "michelangelo_nude-female-seated-on-the-knees-of-a-seated-male-nude-adam-and-eve.jpg"
+        },
+        {
+            "title": "michelangelo_nude-woman-on-her-knees",
+            "file": "michelangelo_nude-woman-on-her-knees.jpg"
+        },
+        {
+            "title": "michelangelo_palestrina-pieta-1550",
+            "file": "michelangelo_palestrina-pieta-1550.jpg"
+        },
+        {
+            "title": "michelangelo_pieta-1499",
+            "file": "michelangelo_pieta-1499.jpg"
+        },
+        {
+            "title": "michelangelo_pieta-rondanini-unfinished-1564",
+            "file": "michelangelo_pieta-rondanini-unfinished-1564.jpg"
+        },
+        {
+            "title": "michelangelo_pieta",
+            "file": "michelangelo_pieta.jpg"
+        },
+        {
+            "title": "michelangelo_pius-1504",
+            "file": "michelangelo_pius-1504.jpg"
+        },
+        {
+            "title": "michelangelo_portrait-of-andrea-quaratesi",
+            "file": "michelangelo_portrait-of-andrea-quaratesi.jpg"
+        },
+        {
+            "title": "michelangelo_portrait-of-vittoria-colonna",
+            "file": "michelangelo_portrait-of-vittoria-colonna.jpg"
+        },
+        {
+            "title": "michelangelo_putti-1511",
+            "file": "michelangelo_putti-1511.jpg"
+        },
+        {
+            "title": "michelangelo_rachel-and-leah-1545",
+            "file": "michelangelo_rachel-and-leah-1545.jpg"
+        },
+        {
+            "title": "michelangelo_samson-and-two-philistines",
+            "file": "michelangelo_samson-and-two-philistines.jpg"
+        },
+        {
+            "title": "michelangelo_satyr-s-head",
+            "file": "michelangelo_satyr-s-head.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-creation-of-adam-1510",
+            "file": "michelangelo_sistine-chapel-ceiling-creation-of-adam-1510.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-creation-of-eve-1510",
+            "file": "michelangelo_sistine-chapel-ceiling-creation-of-eve-1510.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-creation-of-the-sun-and-moon-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-creation-of-the-sun-and-moon-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-cumaean-sibyl-1510",
+            "file": "michelangelo_sistine-chapel-ceiling-cumaean-sibyl-1510.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-david-and-goliath-1509",
+            "file": "michelangelo_sistine-chapel-ceiling-david-and-goliath-1509.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-drunkenness-of-noah-1509",
+            "file": "michelangelo_sistine-chapel-ceiling-drunkenness-of-noah-1509.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-god-dividing-land-and-water-1512-1",
+            "file": "michelangelo_sistine-chapel-ceiling-god-dividing-land-and-water-1512-1.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-god-dividing-land-and-water-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-god-dividing-land-and-water-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-god-dividing-light-from-darkness-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-god-dividing-light-from-darkness-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-judith-carrying-the-head-of-holofernes-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-judith-carrying-the-head-of-holofernes-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-libyan-sibyl",
+            "file": "michelangelo_sistine-chapel-ceiling-libyan-sibyl.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-sacrifice-of-noah-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-sacrifice-of-noah-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-sibyl-erithraea-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-sibyl-erithraea-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-the-brazen-serpent-1511",
+            "file": "michelangelo_sistine-chapel-ceiling-the-brazen-serpent-1511.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-the-delphic-sibyl-1509",
+            "file": "michelangelo_sistine-chapel-ceiling-the-delphic-sibyl-1509.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-the-flood-1512-1",
+            "file": "michelangelo_sistine-chapel-ceiling-the-flood-1512-1.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-the-flood-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-the-flood-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-the-persian-sibyl-1511",
+            "file": "michelangelo_sistine-chapel-ceiling-the-persian-sibyl-1511.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-the-prophet-joel-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-the-prophet-joel-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-the-punishment-of-haman-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-the-punishment-of-haman-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sistine-chapel-ceiling-the-temptation-and-expulsion-1512",
+            "file": "michelangelo_sistine-chapel-ceiling-the-temptation-and-expulsion-1512.jpg"
+        },
+        {
+            "title": "michelangelo_sketch-of-a-nude-man-study-for-the-battle-of-cascina",
+            "file": "michelangelo_sketch-of-a-nude-man-study-for-the-battle-of-cascina.jpg"
+        },
+        {
+            "title": "michelangelo_sketch-of-fortifications-of-porta-del-prato-in-florence-ground-floor-plan",
+            "file": "michelangelo_sketch-of-fortifications-of-porta-del-prato-in-florence-ground-floor-plan.jpg"
+        },
+        {
+            "title": "michelangelo_slave-atlas-1536",
+            "file": "michelangelo_slave-atlas-1536.jpg"
+        },
+        {
+            "title": "michelangelo_st-anne-with-virgin-and-child-christ",
+            "file": "michelangelo_st-anne-with-virgin-and-child-christ.jpg"
+        },
+        {
+            "title": "michelangelo_st-matthew",
+            "file": "michelangelo_st-matthew.jpg"
+        },
+        {
+            "title": "michelangelo_st-paul-1504",
+            "file": "michelangelo_st-paul-1504.jpg"
+        },
+        {
+            "title": "michelangelo_st-peter-1504",
+            "file": "michelangelo_st-peter-1504.jpg"
+        },
+        {
+            "title": "michelangelo_st-petronius-1494",
+            "file": "michelangelo_st-petronius-1494.jpg"
+        },
+        {
+            "title": "michelangelo_st-proculus-1494",
+            "file": "michelangelo_st-proculus-1494.jpg"
+        },
+        {
+            "title": "michelangelo_studies-for-a-double-tomb-wall",
+            "file": "michelangelo_studies-for-a-double-tomb-wall.jpg"
+        },
+        {
+            "title": "michelangelo_studies-for-pieta-or-the-last-judgement",
+            "file": "michelangelo_studies-for-pieta-or-the-last-judgement.jpg"
+        },
+        {
+            "title": "michelangelo_studies-for-the-last-judgement",
+            "file": "michelangelo_studies-for-the-last-judgement.jpg"
+        },
+        {
+            "title": "michelangelo_studies-of-grotesques-1530",
+            "file": "michelangelo_studies-of-grotesques-1530.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-a-holy-family-with-the-infant-st-john-1534",
+            "file": "michelangelo_study-for-a-holy-family-with-the-infant-st-john-1534.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-a-resurrection-of-christ-1533",
+            "file": "michelangelo_study-for-a-resurrection-of-christ-1533.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-a-risen-christ-1533",
+            "file": "michelangelo_study-for-a-risen-christ-1533.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-an-arm-of-the-marble-david-and-the-figure-of-the-bronze-david",
+            "file": "michelangelo_study-for-an-arm-of-the-marble-david-and-the-figure-of-the-bronze-david.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-an-ignudo",
+            "file": "michelangelo_study-for-an-ignudo.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-christ-on-the-cross-with-mourners-1548",
+            "file": "michelangelo_study-for-christ-on-the-cross-with-mourners-1548.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-haman",
+            "file": "michelangelo_study-for-haman.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-the-colonna-pieta",
+            "file": "michelangelo_study-for-the-colonna-pieta.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-the-last-judgement",
+            "file": "michelangelo_study-for-the-last-judgement.jpg"
+        },
+        {
+            "title": "michelangelo_study-for-the-porta-pia-a-gate-in-the-aurelian-walls-of-rome-1561",
+            "file": "michelangelo_study-for-the-porta-pia-a-gate-in-the-aurelian-walls-of-rome-1561.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-a-nude-man",
+            "file": "michelangelo_study-of-a-nude-man.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-a-seated-woman",
+            "file": "michelangelo_study-of-a-seated-woman.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-christ-on-the-cross-between-the-virgin-and-st-john-the-evangelist-1556",
+            "file": "michelangelo_study-of-christ-on-the-cross-between-the-virgin-and-st-john-the-evangelist-1556.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-christ-on-the-cross-between-the-virgin-and-st-john-the-evangelist",
+            "file": "michelangelo_study-of-christ-on-the-cross-between-the-virgin-and-st-john-the-evangelist.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-figure-to-battle-of-cascina-1505",
+            "file": "michelangelo_study-of-figure-to-battle-of-cascina-1505.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-nude-man-1",
+            "file": "michelangelo_study-of-nude-man-1.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-nude-man-2",
+            "file": "michelangelo_study-of-nude-man-2.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-nude-man",
+            "file": "michelangelo_study-of-nude-man.jpg"
+        },
+        {
+            "title": "michelangelo_study-of-three-male-figures-after-raphael",
+            "file": "michelangelo_study-of-three-male-figures-after-raphael.jpg"
+        },
+        {
+            "title": "michelangelo_study-to-battle-of-cascina-1504-1",
+            "file": "michelangelo_study-to-battle-of-cascina-1504-1.jpg"
+        },
+        {
+            "title": "michelangelo_study-to-battle-of-cascina-1504",
+            "file": "michelangelo_study-to-battle-of-cascina-1504.jpg"
+        },
+        {
+            "title": "michelangelo_study-to-crusifixion-1541",
+            "file": "michelangelo_study-to-crusifixion-1541.jpg"
+        },
+        {
+            "title": "michelangelo_study-to-madonna-and-child-with-st-john-the-baptist",
+            "file": "michelangelo_study-to-madonna-and-child-with-st-john-the-baptist.jpg"
+        },
+        {
+            "title": "michelangelo_study-to-pieta-1",
+            "file": "michelangelo_study-to-pieta-1.jpg"
+        },
+        {
+            "title": "michelangelo_study-to-pieta",
+            "file": "michelangelo_study-to-pieta.jpg"
+        },
+        {
+            "title": "michelangelo_study-to-the-libyan-sibyl",
+            "file": "michelangelo_study-to-the-libyan-sibyl.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-abiud-eliakim-1512",
+            "file": "michelangelo_the-ancestors-of-christ-abiud-eliakim-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-achim-eliud-1512",
+            "file": "michelangelo_the-ancestors-of-christ-achim-eliud-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-amminadab-1512",
+            "file": "michelangelo_the-ancestors-of-christ-amminadab-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-asa-1509",
+            "file": "michelangelo_the-ancestors-of-christ-asa-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-azor-sadoch-1512",
+            "file": "michelangelo_the-ancestors-of-christ-azor-sadoch-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-boaz-obed-1512",
+            "file": "michelangelo_the-ancestors-of-christ-boaz-obed-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-david-solomon-1511",
+            "file": "michelangelo_the-ancestors-of-christ-david-solomon-1511.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-hezekiah-1509",
+            "file": "michelangelo_the-ancestors-of-christ-hezekiah-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-jacob-joseph-1512",
+            "file": "michelangelo_the-ancestors-of-christ-jacob-joseph-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-jechoniah-shealtiel-1512",
+            "file": "michelangelo_the-ancestors-of-christ-jechoniah-shealtiel-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-jehoshaphat-joram-1512",
+            "file": "michelangelo_the-ancestors-of-christ-jehoshaphat-joram-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-jesse-1509",
+            "file": "michelangelo_the-ancestors-of-christ-jesse-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-josias-1509",
+            "file": "michelangelo_the-ancestors-of-christ-josias-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-jotham-ahaz-1512",
+            "file": "michelangelo_the-ancestors-of-christ-jotham-ahaz-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-manasseh-amon-1512",
+            "file": "michelangelo_the-ancestors-of-christ-manasseh-amon-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-nahshon-1512",
+            "file": "michelangelo_the-ancestors-of-christ-nahshon-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-ozias-1509",
+            "file": "michelangelo_the-ancestors-of-christ-ozias-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-rehoboam-abijah-1512",
+            "file": "michelangelo_the-ancestors-of-christ-rehoboam-abijah-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-salmon-1509",
+            "file": "michelangelo_the-ancestors-of-christ-salmon-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-ancestors-of-christ-zerubbabel-1509",
+            "file": "michelangelo_the-ancestors-of-christ-zerubbabel-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-awakening-slave-1536",
+            "file": "michelangelo_the-awakening-slave-1536.jpg"
+        },
+        {
+            "title": "michelangelo_the-conversion-of-saul-1545",
+            "file": "michelangelo_the-conversion-of-saul-1545.jpg"
+        },
+        {
+            "title": "michelangelo_the-damned-soul",
+            "file": "michelangelo_the-damned-soul.jpg"
+        },
+        {
+            "title": "michelangelo_the-dream-of-human-life",
+            "file": "michelangelo_the-dream-of-human-life.jpg"
+        },
+        {
+            "title": "michelangelo_the-dying-slave-1515",
+            "file": "michelangelo_the-dying-slave-1515.jpg"
+        },
+        {
+            "title": "michelangelo_the-entombment",
+            "file": "michelangelo_the-entombment.jpg"
+        },
+        {
+            "title": "michelangelo_the-fall-of-phaeton-1533",
+            "file": "michelangelo_the-fall-of-phaeton-1533.jpg"
+        },
+        {
+            "title": "michelangelo_the-genius-of-victory-1534",
+            "file": "michelangelo_the-genius-of-victory-1534.jpg"
+        },
+        {
+            "title": "michelangelo_the-last-judgement-1541",
+            "file": "michelangelo_the-last-judgement-1541.jpg"
+        },
+        {
+            "title": "michelangelo_the-prophet-daniel-1511",
+            "file": "michelangelo_the-prophet-daniel-1511.jpg"
+        },
+        {
+            "title": "michelangelo_the-prophet-ezekiel-1510",
+            "file": "michelangelo_the-prophet-ezekiel-1510.jpg"
+        },
+        {
+            "title": "michelangelo_the-prophet-isaiah-1509",
+            "file": "michelangelo_the-prophet-isaiah-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-prophet-jeremiah-1512",
+            "file": "michelangelo_the-prophet-jeremiah-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-prophet-joel-1509",
+            "file": "michelangelo_the-prophet-joel-1509.jpg"
+        },
+        {
+            "title": "michelangelo_the-prophet-jonah-1511",
+            "file": "michelangelo_the-prophet-jonah-1511.jpg"
+        },
+        {
+            "title": "michelangelo_the-prophet-zechariah-1512",
+            "file": "michelangelo_the-prophet-zechariah-1512.jpg"
+        },
+        {
+            "title": "michelangelo_the-punishment-of-tityus",
+            "file": "michelangelo_the-punishment-of-tityus.jpg"
+        },
+        {
+            "title": "michelangelo_the-rape-of-ganymede-1533",
+            "file": "michelangelo_the-rape-of-ganymede-1533.jpg"
+        },
+        {
+            "title": "michelangelo_the-rebellious-slave-1513",
+            "file": "michelangelo_the-rebellious-slave-1513.jpg"
+        },
+        {
+            "title": "michelangelo_the-resurrection-of-christ",
+            "file": "michelangelo_the-resurrection-of-christ.jpg"
+        },
+        {
+            "title": "michelangelo_the-risen-christ",
+            "file": "michelangelo_the-risen-christ.jpg"
+        },
+        {
+            "title": "michelangelo_the-study-of-adam-1",
+            "file": "michelangelo_the-study-of-adam-1.jpg"
+        },
+        {
+            "title": "michelangelo_the-study-of-adam",
+            "file": "michelangelo_the-study-of-adam.jpg"
+        },
+        {
+            "title": "michelangelo_the-torment-of-saint-anthony",
+            "file": "michelangelo_the-torment-of-saint-anthony.jpg"
+        },
+        {
+            "title": "michelangelo_the-virgin-and-child-with-saint-john-and-angels-manchester-madonna",
+            "file": "michelangelo_the-virgin-and-child-with-saint-john-and-angels-manchester-madonna.jpg"
+        },
+        {
+            "title": "michelangelo_tomb-of-giuliano-de-medici-1533",
+            "file": "michelangelo_tomb-of-giuliano-de-medici-1533.jpg"
+        },
+        {
+            "title": "michelangelo_tomb-of-lorenzo-de-medici-1531",
+            "file": "michelangelo_tomb-of-lorenzo-de-medici-1531.jpg"
+        },
+        {
+            "title": "michelangelo_two-figures",
+            "file": "michelangelo_two-figures.jpg"
+        },
+        {
+            "title": "michelangelo_various-studies",
+            "file": "michelangelo_various-studies.jpg"
+        },
+        {
+            "title": "michelangelo_young-slave-1523",
+            "file": "michelangelo_young-slave-1523.jpg"
+        },
+        {
+            "title": "salvador-dali_aurora-s-head-after-michelangelo-detail-of-a-figure-on-the-grave-of-lorenzo-di-medici",
+            "file": "salvador-dali_aurora-s-head-after-michelangelo-detail-of-a-figure-on-the-grave-of-lorenzo-di-medici.jpg"
+        },
+        {
+            "title": "salvador-dali_figure-after-michelangelo-s-dawn-on-the-tomb-of-lorenzo-di-medici",
+            "file": "salvador-dali_figure-after-michelangelo-s-dawn-on-the-tomb-of-lorenzo-di-medici.jpg"
+        },
+        {
+            "title": "salvador-dali_head-inspired-by-michelangelo",
+            "file": "salvador-dali_head-inspired-by-michelangelo.jpg"
+        },
+        {
+            "title": "salvador-dali_landscape-with-hidden-image-of-michelangelo-s-david",
+            "file": "salvador-dali_landscape-with-hidden-image-of-michelangelo-s-david.jpg"
+        },
+        {
+            "title": "salvador-dali_scene-in-the-courtyard-of-the-escorial-with-a-figure-in-the-foreground-inspired-by-michelangelo",
+            "file": "salvador-dali_scene-in-the-courtyard-of-the-escorial-with-a-figure-in-the-foreground-inspired-by-michelangelo.jpg"
+        },
+        {
+            "title": "salvador-dali_untitled-after-the-day-by-michelangelo",
+            "file": "salvador-dali_untitled-after-the-day-by-michelangelo.jpg"
+        },
+        {
+            "title": "salvador-dali_untitled-after-the-night-by-michelangelo",
+            "file": "salvador-dali_untitled-after-the-night-by-michelangelo.jpg"
+        },
+        {
+            "title": "salvador-dali_untitled-michelangelo-head-with-drawers",
+            "file": "salvador-dali_untitled-michelangelo-head-with-drawers.jpg"
+        },
+        {
+            "title": "salvador-dali_untitled-nude-figures-after-michelangelo",
+            "file": "salvador-dali_untitled-nude-figures-after-michelangelo.jpg"
+        },
+        {
+            "title": "tano-festa_da-michelangelo-1966",
+            "file": "tano-festa_da-michelangelo-1966.jpg"
+        },
+        {
+            "title": "tano-festa_da-michelangelo-1978-1",
+            "file": "tano-festa_da-michelangelo-1978-1.jpg"
+        },
+        {
+            "title": "tano-festa_da-michelangelo-1978",
+            "file": "tano-festa_da-michelangelo-1978.jpg"
+        },
+        {
+            "title": "tano-festa_da-michelangelo-trittico-1978",
+            "file": "tano-festa_da-michelangelo-trittico-1978.jpg"
+        },
+        {
+            "title": "tano-festa_da-michelangelo",
+            "file": "tano-festa_da-michelangelo.jpg"
+        },
+        {
+            "title": "tano-festa_il-michelangelo",
+            "file": "tano-festa_il-michelangelo.jpg"
+        }
+    ]
+}

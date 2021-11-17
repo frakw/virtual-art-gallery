@@ -3,5 +3,8 @@
 module.exports = {
     default: "artic",
     artic: require("./artic"),
-    local: require("./local")
+    local: require("./local"),
+    davinci: require("./davinci"),
+    michelangelo: require("./michelangelo"),
+    raphael: require("./raphael")
 };

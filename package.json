@@ -6,8 +6,11 @@
 		"start": "budo src/index.js",
 		"build": "browserify -p tinyify src/index.js | htmlify base.html > build.html",
 		"genList": "node images/generateList.js",
-		"prestart": "npm run genList",
-		"prebuild": "npm run genList"
+		"davinciList": "node davinci/generateList.js",
+		"michelangeloList": "node michelangelo/generateList.js",
+		"raphaelList": "node raphael/generateList.js",
+		"prestart": "npm run genList && npm run davinciList && npm run michelangeloList && npm run raphaelList",
+		"prebuild": "npm run genList && npm run davinciList && npm run michelangeloList && npm run raphaelList"
 	},
 	"license": "MIT",
 	"dependencies": {
