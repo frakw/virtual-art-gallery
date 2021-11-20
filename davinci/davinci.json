@@ -1,10 +1,6 @@
 {
     "images": [
         {
-            "title": "howard-finster_leonardo-da-vinci-1991",
-            "file": "howard-finster_leonardo-da-vinci-1991.jpg"
-        },
-        {
             "title": "leonardo-da-vinci_a-grotesque-head-grotesque-head",
             "file": "leonardo-da-vinci_a-grotesque-head-grotesque-head.jpg"
         },
@@ -807,10 +803,6 @@
         {
             "title": "leonardo-da-vinci_woman-s-head",
             "file": "leonardo-da-vinci_woman-s-head.jpg"
-        },
-        {
-            "title": "salvador-dali_quantification-of-leonardo-de-vinci-s-last-supper",
-            "file": "salvador-dali_quantification-of-leonardo-de-vinci-s-last-supper.jpg"
         }
     ]
 }
